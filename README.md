@@ -4,10 +4,10 @@ Project Overview
 projects Link :https://course.acciojob.com/start-project?project=06ec1b05-6ccc-4fcc-aaab-9010fdf705d6
 Task
 Create a multi-page React app that fetches data from an API and displays it in different views, using React Router and Redux to manage state and routing.
----------------------------------------------------------------------
 
 
-Problem Statement
+
+<h2>Problem Statement</h2>
 You have to use React Router to create multiple routes and views for your app. Your app should have the following views:
 A home page that displays a list of items fetched from an API.
 A detail page that displays information about a single item.
